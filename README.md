@@ -3,11 +3,14 @@
 
 ## Eryk Tryba
 
-1. Ik heb geleerd hoe je met git en github om kan gaan.
+1. Wat heb ik nieuw geleerd met deze lessen.
+    Ik heb geleerd hoe je met git, github en markdown om kan gaan.
 
-2. Wat ik ook heb geleerd is hoe ik met markdown werk en dat op github zet.
+2. Wat wist ik al.
+    Ik wist niks over wat we hebben gedaan
 
-3. Ik will leren hoe ik sneller in een groep met git werk
+3. Waarvan zou ik meer willen weten
+    Ik will leren hoe ik sneller in een groep met git werk
 
 ## Jay Jairam
 
@@ -19,7 +22,7 @@
 
     **Ik wist helemaal niks toen ik begon met deze opleiding.**
 
-3. waarvan zou ik meer willen weten
+3. Waarvan zou ik meer willen weten
 
     **Ik begrijp nog niet hoe ik moet merge.**
 
