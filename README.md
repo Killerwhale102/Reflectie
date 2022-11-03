@@ -4,12 +4,15 @@
 ## Eryk Tryba
 
 1. Wat heb ik nieuw geleerd met deze lessen.
+
     Ik heb geleerd hoe je met git, github en markdown om kan gaan.
 
 2. Wat wist ik al.
+
     Ik wist niks over wat we hebben gedaan
 
 3. Waarvan zou ik meer willen weten
+
     Ik will leren hoe ik sneller in een groep met git werk
 
 ## Jay Jairam
@@ -29,10 +32,13 @@
 ## damian pietrzak
 
 1. wat heb ik met deze les nieuw geleerd?
- ik heb geleerd hoe ik github moet gebruiken en cmd
+
+    ik heb geleerd hoe ik github moet gebruiken en cmd
 
 2. wat wist ik al?
- ik wist zowat niks want dit was helemaal nieuw tot mij
+
+    ik wist zowat niks want dit was helemaal nieuw tot mij
 
 3. waarvan zou ik nog meer willen weten?
- ik zou nog meer willen leren hoe ik github moet gebruiken en cmd
+
+    ik zou nog meer willen leren hoe ik github moet gebruiken en cmd
